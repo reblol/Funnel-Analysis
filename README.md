@@ -1,4 +1,4 @@
-# Sample-E-Commerce-Funnel-Analysis
+# Sample E-Commerce Funnel Analysis
 
 ## Overview
 This project analyzes user behavior across e-commerce purchase funnel from site entry, to check out, to purchase.
